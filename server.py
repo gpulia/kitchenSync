@@ -21,5 +21,5 @@ async def on_message(msg):
             await msg.channel.send(builtMsg)
         else:
             await msg.channel.send('RIP LMAO.')
-
+##test push
 client.run(token)
